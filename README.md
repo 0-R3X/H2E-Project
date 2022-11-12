@@ -9,5 +9,5 @@ we are providing a platform for the students to study according to there level. 
 End Product - 
 We hope to make a web application to solve this problem. where we'll provide solution as discussed above. This will help the students in there self based learning which will keep them encouraged in there studies keeping their responsibilities in the mind.
 
-#demo video
+#demo video : 
 https://drive.google.com/file/d/1Tk18h8PiTUzUgPvYpv2zSbupOIw0fBMm/view
